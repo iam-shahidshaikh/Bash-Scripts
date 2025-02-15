@@ -6,5 +6,4 @@ FirstArgument()
     echo " secound argument is : $2"
 }
 
-FirstArgument
-FirstArgument
+FirstArgument "Hello" "World"
